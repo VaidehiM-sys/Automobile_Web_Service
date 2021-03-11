@@ -10,6 +10,7 @@ CREATE vehicles <br />
 UPDATE vehicles <br />
 DELETE vehicles/{id}
 
+Following features were included in the project:
 1) Added validation to web service.
 Vehicles must have a non-null / non-empty make and model specified, and the year must be between 1950 and 2050.
 2) Added filtering to your service.
