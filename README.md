@@ -4,10 +4,10 @@ Automobile Web Service created using Spring Boot and Rest Assured that performs 
 (automobile) entity.
 A Vehicle is a simple object and following menthods were implemented for it.
 
-GET vehicles
-GET vehicles/{id}
-CREATE vehicles
-UPDATE vehicles
+GET vehicles <br />
+GET vehicles/{id} <br />
+CREATE vehicles <br />
+UPDATE vehicles <br />
 DELETE vehicles/{id}
 
 1) Added validation to web service.
