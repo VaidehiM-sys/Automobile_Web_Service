@@ -1,5 +1,5 @@
 # AutomobileWebService
-Automobile Web Service developed using Javas, Spring Boot framework with design patterns. Automated test cases implemented using REST Assured that performs CRUD operations (Create, Read, Update, and Delete) for a Vehicle (automobile) entity and utilized it using Postman API.
+Automobile Web Service developed using Java, Spring Boot framework with design patterns. Automated test cases implemented using REST Assured that performs CRUD operations (Create, Read, Update, and Delete) for a Vehicle (automobile) entity and utilized it using Postman API.
 A Vehicle is a simple object and following menthods were implemented in web service :
 
 * GET vehicles <br />
